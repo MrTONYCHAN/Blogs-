@@ -87,7 +87,7 @@ const Register: FC = () => {
             <img src="/static/logo/logo.png" width="100%" alt="Uko Logo" />
           </Box>
           <H1 fontSize={24} fontWeight={700}>
-            Get started with Uko
+            Get started with  The Drifter Inc
           </H1>
         </FlexBox>
 
